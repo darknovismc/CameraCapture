@@ -11,4 +11,4 @@ cameraDevice.cpp - creates camera device using Windows Media Foundation to conne
 Enumerates all capture formats and chooses one with the highest frame resolution and framerate. 
 Initializes SinkWriter for writing a video capture into .wmv file after it has been filtered.
 
-mediaDebug.cpp - optional class for loging and debugging camera capabilities.
+mediaDebug.cpp - optional class for logging and debugging camera capabilities.
